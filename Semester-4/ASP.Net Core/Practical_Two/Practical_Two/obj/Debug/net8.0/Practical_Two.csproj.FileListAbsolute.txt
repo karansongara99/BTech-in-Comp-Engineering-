@@ -1,0 +1,14 @@
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\obj\Debug\net8.0\Practical_Two.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\obj\Debug\net8.0\Practical_Two.AssemblyInfoInputs.cache
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\obj\Debug\net8.0\Practical_Two.AssemblyInfo.cs
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\obj\Debug\net8.0\Practical_Two.csproj.CoreCompileInputs.cache
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\bin\Debug\net8.0\Practical_Two.exe
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\bin\Debug\net8.0\Practical_Two.deps.json
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\bin\Debug\net8.0\Practical_Two.runtimeconfig.json
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\bin\Debug\net8.0\Practical_Two.dll
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\bin\Debug\net8.0\Practical_Two.pdb
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\obj\Debug\net8.0\Practical_Two.dll
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\obj\Debug\net8.0\refint\Practical_Two.dll
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\obj\Debug\net8.0\Practical_Two.pdb
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\obj\Debug\net8.0\Practical_Two.genruntimeconfig.cache
+D:\Programer\BTech\Sem-4\.NET\Practical_Two\Practical_Two\obj\Debug\net8.0\ref\Practical_Two.dll
