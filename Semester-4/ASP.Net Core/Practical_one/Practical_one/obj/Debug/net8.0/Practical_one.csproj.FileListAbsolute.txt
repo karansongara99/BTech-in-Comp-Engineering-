@@ -1,0 +1,14 @@
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\bin\Debug\net8.0\Practical_one.exe
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\bin\Debug\net8.0\Practical_one.deps.json
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\bin\Debug\net8.0\Practical_one.runtimeconfig.json
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\bin\Debug\net8.0\Practical_one.dll
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\bin\Debug\net8.0\Practical_one.pdb
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\obj\Debug\net8.0\Practical_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\obj\Debug\net8.0\Practical_one.AssemblyInfoInputs.cache
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\obj\Debug\net8.0\Practical_one.AssemblyInfo.cs
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\obj\Debug\net8.0\Practical_one.csproj.CoreCompileInputs.cache
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\obj\Debug\net8.0\Practical_one.dll
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\obj\Debug\net8.0\refint\Practical_one.dll
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\obj\Debug\net8.0\Practical_one.pdb
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\obj\Debug\net8.0\Practical_one.genruntimeconfig.cache
+C:\Users\karan\OneDrive\Desktop\Practical_one\Practical_one\obj\Debug\net8.0\ref\Practical_one.dll
