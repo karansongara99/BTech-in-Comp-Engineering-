@@ -10,6 +10,11 @@ View: View is a component that forms the application's user interface. It is use
 
 Controller: Controller is the component which handles user interaction. It works with the model and selects the view to render the web page. In an MVC application, the view only displays information whereas the controller handles and responds to the user input and requests.</p>
 
+<h1>MERN STACK</h1>
+
+<p>MERN is an acronym for the four technologies that form the stack: MongoDB, Express, React, and Node. js. Developers recognize the MERN stack as a simplified development platform for building highly scalable and interactive web applications.</p>
+
+
 <h1>DBMS</h1>
 
 <p>MS SQL Server</p>
