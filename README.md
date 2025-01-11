@@ -1,6 +1,14 @@
 <h1>ASP.Net Core</h1>
 
 <p>ASP.NET Core is the new web framework from Microsoft. ASP.NET Core is the framework you want to use for web development with .NET. At the end this tutorial, you will have everything you need to start using ASP.NET Core and write an application that can create, edit, and view data from a database.</p>
+<p>ASP.NET MVC Tutorial</p>
+<p>The MVC (Model-View-Controller) is an application development pattern or design pattern which separates an application into three main components:
+
+Model: Model is a part of the application which implements the logic for the data domain of the application. It is used to retrieve and store model state in a database such as SQL Server database. It also used for business logic separation from the data in the application.<br>
+
+View: View is a component that forms the application's user interface. It is uses to create web pages for the application. An example would be an edit view of a Products table that displays text boxes, drop-down lists and check boxes based on the current state of a Product object.<br>
+
+Controller: Controller is the component which handles user interaction. It works with the model and selects the view to render the web page. In an MVC application, the view only displays information whereas the controller handles and responds to the user input and requests.</p>
 
 <h1>DBMS</h1>
 
