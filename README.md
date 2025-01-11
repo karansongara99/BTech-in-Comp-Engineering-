@@ -14,6 +14,10 @@ Controller: Controller is the component which handles user interaction. It works
 
 <p>MERN is an acronym for the four technologies that form the stack: MongoDB, Express, React, and Node. js. Developers recognize the MERN stack as a simplified development platform for building highly scalable and interactive web applications.</p>
 
+<h1>Python Programming</h1>
+
+<p>Python is a high-level programming language that is used to create software, websites, and automate tasks. It is known for its readability, simplicity, and effectiveness. 
+What can you do with Python? Create web applications, Perform statistical analysis, Train AI/ML models, Design websites, and Automate repetitive tasks. </p>
 
 <h1>DBMS</h1>
 
