@@ -1,3 +1,7 @@
+<h1>ASP.Net Core</h1>
+
+<p>ASP.NET Core is the new web framework from Microsoft. ASP.NET Core is the framework you want to use for web development with .NET. At the end this tutorial, you will have everything you need to start using ASP.NET Core and write an application that can create, edit, and view data from a database.</p>
+
 <h1>DBMS</h1>
 
 <p>MS SQL Server</p>
