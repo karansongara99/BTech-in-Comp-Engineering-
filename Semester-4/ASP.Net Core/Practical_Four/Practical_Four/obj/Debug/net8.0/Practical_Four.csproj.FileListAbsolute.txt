@@ -1,0 +1,14 @@
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\bin\Debug\net8.0\Practical_Four.exe
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\bin\Debug\net8.0\Practical_Four.deps.json
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\bin\Debug\net8.0\Practical_Four.runtimeconfig.json
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\bin\Debug\net8.0\Practical_Four.dll
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\bin\Debug\net8.0\Practical_Four.pdb
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\obj\Debug\net8.0\Practical_Four.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\obj\Debug\net8.0\Practical_Four.AssemblyInfoInputs.cache
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\obj\Debug\net8.0\Practical_Four.AssemblyInfo.cs
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\obj\Debug\net8.0\Practical_Four.csproj.CoreCompileInputs.cache
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\obj\Debug\net8.0\Practical_Four.dll
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\obj\Debug\net8.0\refint\Practical_Four.dll
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\obj\Debug\net8.0\Practical_Four.pdb
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\obj\Debug\net8.0\Practical_Four.genruntimeconfig.cache
+D:\Programer\BTech\Sem-4\.NET\Practical_Four\Practical_Four\obj\Debug\net8.0\ref\Practical_Four.dll
