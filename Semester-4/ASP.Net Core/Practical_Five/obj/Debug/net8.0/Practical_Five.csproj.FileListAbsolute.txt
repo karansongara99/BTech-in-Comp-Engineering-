@@ -1,0 +1,14 @@
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\bin\Debug\net8.0\Practical_Five.exe
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\bin\Debug\net8.0\Practical_Five.deps.json
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\bin\Debug\net8.0\Practical_Five.runtimeconfig.json
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\bin\Debug\net8.0\Practical_Five.dll
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\bin\Debug\net8.0\Practical_Five.pdb
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\obj\Debug\net8.0\Practical_Five.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\obj\Debug\net8.0\Practical_Five.AssemblyInfoInputs.cache
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\obj\Debug\net8.0\Practical_Five.AssemblyInfo.cs
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\obj\Debug\net8.0\Practical_Five.csproj.CoreCompileInputs.cache
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\obj\Debug\net8.0\Practical_Five.dll
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\obj\Debug\net8.0\refint\Practical_Five.dll
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\obj\Debug\net8.0\Practical_Five.pdb
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\obj\Debug\net8.0\Practical_Five.genruntimeconfig.cache
+D:\Programer\BTech\Sem-4\.NET\Practical_Five\obj\Debug\net8.0\ref\Practical_Five.dll

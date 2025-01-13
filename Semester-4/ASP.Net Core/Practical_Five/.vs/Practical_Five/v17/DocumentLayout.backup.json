@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_five\\arraylist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|solutionrelative:arraylist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_five\\dictoiaryyy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|solutionrelative:dictoiaryyy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_five\\hashinggg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|solutionrelative:hashinggg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_five\\queueeee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|solutionrelative:queueeee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_five\\stackkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|solutionrelative:stackkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_five\\listingg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|solutionrelative:listingg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_five\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F470E7-5549-4E0C-849C-B529BB33E2CD}|Practical_Five.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dictoiaryyy.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Dictoiaryyy.cs",
+              "RelativeDocumentMoniker": "Dictoiaryyy.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Dictoiaryyy.cs",
+              "RelativeToolTip": "Dictoiaryyy.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:37:17.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hashinggg.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Hashinggg.cs",
+              "RelativeDocumentMoniker": "Hashinggg.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Hashinggg.cs",
+              "RelativeToolTip": "Hashinggg.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:37:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queueeee.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Queueeee.cs",
+              "RelativeDocumentMoniker": "Queueeee.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Queueeee.cs",
+              "RelativeToolTip": "Queueeee.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAApwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:37:03.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stackkk.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Stackkk.cs",
+              "RelativeDocumentMoniker": "Stackkk.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Stackkk.cs",
+              "RelativeToolTip": "Stackkk.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:36:57.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Listingg.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Listingg.cs",
+              "RelativeDocumentMoniker": "Listingg.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Listingg.cs",
+              "RelativeToolTip": "Listingg.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:36:49.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayList1.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\ArrayList1.cs",
+              "RelativeDocumentMoniker": "ArrayList1.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\ArrayList1.cs",
+              "RelativeToolTip": "ArrayList1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:36:15.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Five\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:31:06.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
