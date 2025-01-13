@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_three\\practical_three\\longestworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\longestworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_three\\practical_three\\shapeinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\shapeinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_three\\practical_three\\fiveuservalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\fiveuservalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_three\\practical_three\\convertedstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\convertedstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_three\\practical_three\\abstarctsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\abstarctsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_three\\practical_three\\charctercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\charctercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_three\\practical_three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeInter.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\ShapeInter.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\ShapeInter.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\ShapeInter.cs",
+              "RelativeToolTip": "Practical_Three\\ShapeInter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:14:14.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbstarctSum.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\AbstarctSum.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\AbstarctSum.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\AbstarctSum.cs",
+              "RelativeToolTip": "Practical_Three\\AbstarctSum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:12:27.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FiveUSerValue.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\FiveUSerValue.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\FiveUSerValue.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\FiveUSerValue.cs",
+              "RelativeToolTip": "Practical_Three\\FiveUSerValue.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:11:52.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LongestWorld.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\LongestWorld.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\LongestWorld.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\LongestWorld.cs",
+              "RelativeToolTip": "Practical_Three\\LongestWorld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:09:03.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConvertedString.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\ConvertedString.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\ConvertedString.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\ConvertedString.cs",
+              "RelativeToolTip": "Practical_Three\\ConvertedString.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:08:00.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharcterCheck.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\CharcterCheck.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\CharcterCheck.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\CharcterCheck.cs",
+              "RelativeToolTip": "Practical_Three\\CharcterCheck.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:05:59.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\Program.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\Program.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\Program.cs",
+              "RelativeToolTip": "Practical_Three\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAtwCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:57:03.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

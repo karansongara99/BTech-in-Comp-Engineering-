@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_three\\practical_three\\convertedstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\convertedstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_three\\practical_three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\programer\\btech\\sem-4\\.net\\practical_three\\practical_three\\charctercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\charctercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharcterCheck.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\CharcterCheck.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\CharcterCheck.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\CharcterCheck.cs",
+              "RelativeToolTip": "Practical_Three\\CharcterCheck.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:00:01.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvertedString.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\ConvertedString.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\ConvertedString.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\ConvertedString.cs",
+              "RelativeToolTip": "Practical_Three\\ConvertedString.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA7wAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:56:08.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\Program.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\Program.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\Practical_Three\\Practical_Three\\Program.cs",
+              "RelativeToolTip": "Practical_Three\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAtwCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:57:03.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
