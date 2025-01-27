@@ -1,0 +1,3 @@
+ Setup MongoDB
+ • Install MongoDB and MongoDBCompass
+ • Setup documents in MongoDB
