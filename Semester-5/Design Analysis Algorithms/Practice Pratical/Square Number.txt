@@ -1,0 +1,38 @@
+// Online C compiler to run C program online
+//Iterable
+#include <stdio.h>
+int main() {
+    int number;
+    int square;
+    printf("Enter an integer: ");
+    scanf("%d", &number);
+    square = number * number;
+    printf("The square of %d is %d.\n", number, square);
+    return 0; 
+}
+
+//Recursion
+#include <stdio.h>
+int recursiveSquare(int n) {
+    if (n == 0) {
+        return 0;
+    }
+    if (n < 0) {
+        n = -n; // Convert to positive
+    }
+    return recursiveSquare(n - 1) + (2 * n - 1);
+}
+
+int main() {
+    int number;
+    int square;
+
+    printf("Enter an integer: ");
+    scanf("%d", &number);
+    square = recursiveSquare(number);
+    printf("The square of %d is %d.\n", number, square);
+    return 0;
+}
+
+
+
